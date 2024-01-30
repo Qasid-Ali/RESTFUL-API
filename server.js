@@ -3,7 +3,7 @@ require("dotenv").config();
 const express = require("express");
 // instance
 const app = express();
-const port = process.env.port || 3000;
+const port = process.env.PORT || 3000;
 // route 
 const product_route = require("./routes/products")
 // connection
