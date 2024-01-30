@@ -1,0 +1,32 @@
+[
+    {
+        "name": "abc",
+        "price" : 200,
+        "company" : "apple",
+        "featured" : false
+    },
+    {
+        "name": "mobile",
+        "price" : 200,
+        "company" : "apple",
+        "featured" : false
+    },
+    {
+        "name": "laptop",
+        "price" : 200,
+        "company" : "apple",
+        "featured" : false
+    },
+    {
+        "name": "pc",
+        "price" : 200,
+        "company" : "apple",
+        "featured" : true
+    },
+    {
+        "name": "table",
+        "price" : 200,
+        "company" : "apple",
+        "featured" : false
+    }
+]
